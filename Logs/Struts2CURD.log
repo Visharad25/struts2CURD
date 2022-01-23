@@ -1,0 +1,12 @@
+2022-01-23 15:15:43 DEBUG Example1:20 - This is debug method
+2022-01-23 15:15:43 INFO  Example1:21 - This is info method
+2022-01-23 15:15:43 ERROR Example1:22 - This is error method
+2022-01-23 15:15:43 DEBUG Example1:24 - This is debug from Level.DEBUG
+2022-01-23 15:15:43 INFO  Example1:25 - This is info from Level.INFO
+2022-01-23 15:15:43 ERROR Example1:26 - This is error from Level.ERROR
+2022-01-23 15:16:10 DEBUG Example1:20 - This is debug method
+2022-01-23 15:16:10 INFO  Example1:21 - This is info method
+2022-01-23 15:16:10 ERROR Example1:22 - This is error method
+2022-01-23 15:16:10 DEBUG Example1:24 - This is debug from Level.DEBUG
+2022-01-23 15:16:10 INFO  Example1:25 - This is info from Level.INFO
+2022-01-23 15:16:10 ERROR Example1:26 - This is error from Level.ERROR

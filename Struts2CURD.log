@@ -1,0 +1,2 @@
+ERROR	2022-01-23 15:21:34,741	0	struts2.test.beans.Example1	[main]	This is error method
+ERROR	2022-01-23 15:21:34,743	2	struts2.test.beans.Example1	[main]	This is error from Level.ERROR
